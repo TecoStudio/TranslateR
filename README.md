@@ -1,5 +1,6 @@
 # TranslateR
 服务器实时翻译插件
+Server real-time translation plug-in
 <br/>需要在有MCDR的服务器上使用
 <br/>This plug-in must be used on the server that has MCDR
 
@@ -13,7 +14,7 @@
 
 ------------
 
-A plug-in that can convert Chinese and English in the game
+A plugin that can translate Chinese and other languages in real-time within the game
 <br/>Use `!!t < statement > ` you can translate the `statement`
 <br/>Translation methods:
 <br/>Chinese→English

@@ -8,4 +8,4 @@
 ------------
 
 A plug-in that can convert Chinese and English in the game
-<br/>Use `!!t < statement > ` you can translate the `statement'
+<br/>Use `!!t < statement > ` you can translate the `statement`

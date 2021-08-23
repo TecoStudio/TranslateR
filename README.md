@@ -1,5 +1,5 @@
-#服务器实时翻译插件
 # TranslateR
+服务器实时翻译插件
 <br/>需要在有MCDR的服务器上使用
 <br/>This plug-in must be used on the server that has MCDR
 

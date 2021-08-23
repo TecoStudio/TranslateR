@@ -1,25 +1,7 @@
-# coding: utf-8
-
 import requests
 from mcdreforged.api.all import *
 
-PLUGIN_METADATA = {
-    'id': 'translate',
-    'version': '1.1.0',
-    'name': 'TranslateR',
-    'description': 'You can type "!!t" to translated text',
-    'author': [
-        'Spanner_Jun',
-        'shenjack'
-    ],
-    'link': 'https://github.com/Minecraft-TecoCraft-server/TranslateR',
-    'dependencies': {
-        'mcdreforged': '>=1.0.0',
-    }
-}
-
 url = 'http://fanyi.youdao.com/translate?smartresult=dict&smartresult=rule'
-
 
 
 def help_message(source: CommandSource, context: dict):

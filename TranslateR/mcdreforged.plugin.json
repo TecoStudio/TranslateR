@@ -1,0 +1,14 @@
+{
+    "id": "translate",
+    "version": "1.1.0",
+    "name": "TranslateR",
+    "description": "You can type \"!!t\" to translated text",
+    "author": [
+        "Spanner_Jun",
+        "shenjack"
+    ],
+    "link": "https://github.com/Minecraft-TecoCraft-server/TranslateR",
+    "dependencies": {
+        "mcdreforged": ">=1.0.0",
+    }
+}

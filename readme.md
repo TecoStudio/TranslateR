@@ -11,7 +11,7 @@
 - Version: 1.0.1
   - Metadata version: 1.0.1
   - Release version: 1.0.1
-- Authors: [SpannerJun](https://github.com/SpannerJun), [LYOfficial](https://github.com/LYOfficial), [LIPiston](https://github.com/LIPiston)
+- Authors: [SpannerJun](https://github.com/SpannerJun), [shenjack](https://github.com/shenjack)
 - Repository: https://github.com/Minecraft-TecoCraft-server/TranslateR
 - Description: A plugin that can translate Chinese and other languages in real-time within the game
 

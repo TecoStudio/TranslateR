@@ -1,6 +1,6 @@
 **English** | [中文](readme-zh_cn.md)
 
-\>\>\> [Back to index](/readme.md)
+\>\>\> [Back to index](https://github.com/Minecraft-TecoCraft-server/files)
 
 ## TranslateR
 

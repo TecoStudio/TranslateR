@@ -28,7 +28,7 @@
 <br/>Use `!!t < statement > ` you can translate the `statement`
 <br/>Translation methods:
 <br/>Chinese→English
-<br/>Other language→Chinese
+<br/>English→Chinese
 
 ### Download
 

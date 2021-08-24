@@ -13,7 +13,6 @@
   - 发布版本: 1.0.1
 - 作者: [SpannerJun](https://github.com/SpannerJun), [LYOfficial](https://github.com/LYOfficial), [LIPiston](https://github.com/LIPiston)
 - 仓库: https://github.com/Minecraft-TecoCraft-server/TranslateR
-- 标签: [`信息`](/labels/information/readme-zh_cn.md)
 - 描述: 一个能在游戏内对中文与其它语言进行实时翻译的插件
 
 

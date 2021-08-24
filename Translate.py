@@ -7,7 +7,7 @@ PLUGIN_METADATA = {
     'id': 'translate',
     'version': '1.1.0',
     'name': 'TranslateR',
-    'description': 'You can type "!!t" to translated text',
+    'description': 'You can type "!!t" to translate text',
     'author': [
         'Spanner_Jun',
         'shenjack'

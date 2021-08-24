@@ -11,7 +11,7 @@
 - 版本: 1.0.1
   - 元数据版本: 1.0.1
   - 发布版本: 1.0.1
-- 作者: [SpannerJun](https://github.com/SpannerJun), [LYOfficial](https://github.com/LYOfficial), [LIPiston](https://github.com/LIPiston)
+- 作者: [SpannerJun](https://github.com/SpannerJun), [shenjack](https://github.com/shenjack)
 - 仓库: https://github.com/Minecraft-TecoCraft-server/TranslateR
 - 描述: 一个能在游戏内对中文与其它语言进行实时翻译的插件
 

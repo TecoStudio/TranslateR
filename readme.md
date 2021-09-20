@@ -28,7 +28,7 @@
 ### Introduction
 
 <br/>A plugin that can translate Chinese and other languages in real-time within the game
-<br/>Use `!!t < statement > ` you can translate the `statement`
+<br/>Use `!!t < text > ` you can translate the `text`
 <br/>Translation methods:
 <br/>Chinese→English
 <br/>English→Chinese

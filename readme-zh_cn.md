@@ -14,7 +14,7 @@
 - 作者: [SpannerJun](https://github.com/SpannerJun), [shenjack](https://github.com/shenjack)
 - Readme维护：[LYOfficial](https://github.com/LYOfficial)
 - 仓库: https://github.com/Minecraft-TecoCraft-server/TranslateR
-- 描述: 一个能在游戏内对中文与其它语言进行实时翻译的插件。
+- 描述: 一个能在游戏内将中文与其它语言进行实时翻译的插件。
 
 
 ### MCDR版本要求

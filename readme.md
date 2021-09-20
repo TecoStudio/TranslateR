@@ -25,7 +25,7 @@
 | `TranslateR.mcdr` | 2.x |
 
 
-### Introduction
+### Description
 
 <br/>A plugin for instant translation between Chinese and other languages within the game.
 <br/>Use `!!t <statement> ` to translate the `statement` in these supported translations below:
@@ -34,7 +34,7 @@
 | Chinese->English |
 | English->Chinese |
 
-### Download
+### Downloads
 
 | File | Version | Date | Size | Operations |
 | :---: | :---: | :---: | :---: | :---: |

@@ -12,6 +12,7 @@ PLUGIN_METADATA = {
         'Spanner_Jun',
         'shenjack'
     ],
+    'Readme maintenance':'LYOfficial',
     'link': 'https://github.com/Minecraft-TecoCraft-server/TranslateR',
     'dependencies': {
         'mcdreforged': '>=1.0.0',

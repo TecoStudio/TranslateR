@@ -11,8 +11,9 @@
 - Version: 1.1.0
   - Metadata version: 1.1.0
   - Release version: 1.1.0
+- Plans: [LYOfficial](https://github.com/LYOfficial)
 - Authors: [SpannerJun](https://github.com/SpannerJun), [shenjack](https://github.com/shenjack)
-- Readme maintenance: [LYOfficial](https://github.com/LYOfficial)
+- Readme maintenance: [LYOfficial](https://github.com/LYOfficial)，[Pairman](https://github.com/Pairman)
 - Description: A plugin that can translate Chinese and other languages in real-time within the game.
 
 

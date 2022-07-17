@@ -11,8 +11,9 @@
 - 版本: 1.1.0
   - 元数据版本: 1.1.0
   - 发布版本: 1.1.0
+- 计划提出: [LYOfficial](https://github.com/LYOfficial)
 - 作者: [SpannerJun](https://github.com/SpannerJun), [shenjackyuanjie](https://github.com/shenjackyuanjie)
-- 描述文件维护者：[LYOfficial](https://github.com/LYOfficial)
+- 描述文件维护者：[LYOfficial](https://github.com/LYOfficial)，[Pairman]([https://github.com/LYOfficial](https://github.com/Pairman))
 - 仓库: https://github.com/Minecraft-TecoCraft-server/TranslateR
 - 简介: 一个能在游戏内将中文与其它语言进行实时翻译的插件。
 
